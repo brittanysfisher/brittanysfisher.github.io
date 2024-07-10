@@ -17,7 +17,7 @@
 
 ---
 [Migration Patterns by Race and Income](http://example.com/)
-<img src="images/Graph Recreation.png?raw=true"/>
+<img src="images/EDA NEW.png?raw=true"/>
 
 ---
 
