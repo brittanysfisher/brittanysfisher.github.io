@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Live Weather and Traffic Accident Interactive Dashboard
 
-[Live Weather and Traffic Accident Interactive Dashboard](/sample_page)
+[](/sample_page)
 <img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
