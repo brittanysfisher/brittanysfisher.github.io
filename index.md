@@ -16,6 +16,10 @@
 <img src="images/Graph Recreation.png?raw=true"/>
 
 ---
+[Migration Patterns by Race and Income](http://example.com/)
+<img src="images/Graph Recreation.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
