@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Live Weather and Traffic Accident Interactive Dashboard](/sample_page)
+<img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
