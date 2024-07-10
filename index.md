@@ -2,17 +2,17 @@
 
 ---
 
-### Live Weather and Traffic Accident Interactive Dashboard
+### Data Visualizations
 
-[](/sample_page)
+[Live Weather and Traffic Accident Interactive Dashboard](/sample_page)
 <img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[FitBit Data](/pdf/sample_presentation.pdf)
 <img src="images/Sedentary Activity and Sleep.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Graph Recreation](http://example.com/)
 <img src="images/Graph Recreation.png?raw=true"/>
 
 ---
