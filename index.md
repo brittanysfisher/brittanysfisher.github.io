@@ -16,7 +16,7 @@
 <img src="images/Graph Recreation.png?raw=true"/>
 
 ---
-[Young Adult Migration in the US: A Machine Learning Project](http://example.com/)
+[Young Adult Migration in the US: A Machine Learning Project](/ML_Final_Presentation.pdf)
 <img src="images/EDA NEW.png?raw=true"/>
 
 ---
