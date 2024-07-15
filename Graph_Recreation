@@ -1,6 +1,6 @@
 **Project description:** Static graph recreation in R Studio of this [interactive graph from Oregon.gov](https://geo.maps.arcgis.com/apps/webappviewer/index.html?id=b494d232659c4a26bab59e3b241373f6)
 
-```R
+```
 legend_title="County Immunization Rates\nAll Vaccines"
 legend_title2="K12 Schools\n% Vaccinated (All Vaccines)"
 ggplot(data=joinVac)+
