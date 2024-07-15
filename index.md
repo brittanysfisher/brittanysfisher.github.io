@@ -12,7 +12,7 @@
 <img src="images/Sedentary Activity and Sleep.jpg?raw=true"/>
 
 ---
-[Graph Recreation](http://example.com/)
+[Graph Recreation](/Graph_recreation_markdown.html)
 <img src="images/Graph Recreation.png?raw=true"/>
 
 ---
