@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Email: britstorm@gmail.com
   <br><br>
   <a href="https://www.linkedin.com/in/brittany-fisher-300129183/">View My LinkedIn Profile</a> 
+  <br><br>
+  [View My Resume](/pdf/Brittany_Fisher_Resume.pdf)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
