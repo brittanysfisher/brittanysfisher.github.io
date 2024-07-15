@@ -8,7 +8,7 @@
 <img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
-[FitBit Data](/pdf/FitBit_Presentation.pdf)
+[Fitbit Data](/pdf/FitBit_Presentation.pdf)
 <img src="images/Sedentary Activity and Sleep.jpg?raw=true"/>
 
 ---
