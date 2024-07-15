@@ -16,7 +16,7 @@
 <img src="images/Graph Recreation.png?raw=true"/>
 
 ---
-[Migration Patterns by Race and Income](http://example.com/)
+[Young Adult Migration in the US: A Machine Learning Project](http://example.com/)
 <img src="images/EDA NEW.png?raw=true"/>
 
 ---
