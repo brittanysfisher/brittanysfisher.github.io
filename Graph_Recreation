@@ -1,0 +1,31 @@
+**Project description:** Static graph recreation in R Studio of this [interactive graph from Oregon.gov](https://geo.maps.arcgis.com/apps/webappviewer/index.html?id=b494d232659c4a26bab59e3b241373f6)
+
+```R
+legend_title="County Immunization Rates\nAll Vaccines"
+legend_title2="K12 Schools\n% Vaccinated (All Vaccines)"
+ggplot(data=joinVac)+
+  geom_sf(aes(fill=all_pct))+
+  coord_sf()+
+  theme_minimal()+
+  theme(
+    axis.text = element_blank(),
+    axis.title = element_blank(),
+    panel.grid.major = element_blank()
+  )+
+  labs(
+    title="How well-vaccinated is your child care, school, and county?",
+    caption="Data from Oregon.gov"
+  )+
+  geom_point(data=k12, aes(x=X, y=Y, color=Per_Vac_AllVac), size=1.5, alpha=0.6)+
+  scale_color_stepsn(legend_title2, colors=c("#bbbbbb","#eb3333","#fca333","#f8dc33","#f7ffb0"),
+                     #na = TRUE,
+                     na.value="#bbbbbb",
+                     breaks=c(100, 94.9, 89.9, 80),
+                     limits=c(80, 100))+
+  guides(color = guide_legend( 
+    override.aes=list(shape = 19, size=3)))+
+  scale_fill_stepsn(legend_title, colors=c("#d4f0ed","#9bc2cf","#688baa","#44537b"),
+                    breaks = c(97, 94.39, 92.3, 88.6),
+                    labels=c(">94.39-97",">92.3-94.39", ">88.6-92.3","85-88.6"),
+                    guide=guide_legend(label.vjust=.5))
+```
