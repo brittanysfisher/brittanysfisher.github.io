@@ -8,7 +8,7 @@
 <img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
-[FitBit Data](http://brittanysfisher.github.io/brittanysfisher/pdf/Data Viz Final Project - Brittany Fisher (1).pdf)
+[FitBit Data](/pdf/FitBit_Presentation.pdf)
 <img src="images/Sedentary Activity and Sleep.jpg?raw=true"/>
 
 ---
