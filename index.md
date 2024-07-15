@@ -21,7 +21,7 @@
 
 ---
 
-[Capstone Project](/Capstone_Project.md)
+[Capstone Project (in progress)](/Capstone_Project.md)
 
 
 
