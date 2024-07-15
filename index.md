@@ -21,7 +21,7 @@
 
 ---
 
-[Capstone Project](/Capstone_Project)
+[Capstone Project](/Capstone_Project.md)
 
 
 
