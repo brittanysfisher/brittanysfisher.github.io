@@ -2,7 +2,7 @@
 
 ---
 
-### Data Visualizations
+
 
 [Live Weather and Traffic Accident Interactive Dashboard](/pdf/Data_Engineering_Final_Project.pdf)
 <img src="images/PowerBI Dashboard.png?raw=true"/>
@@ -21,15 +21,6 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
