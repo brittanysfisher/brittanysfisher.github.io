@@ -4,7 +4,7 @@
 
 ### Data Visualizations
 
-[Live Weather and Traffic Accident Interactive Dashboard](/sample_page)
+[Live Weather and Traffic Accident Interactive Dashboard](/pdf/Data_Engineering_Final_Project.pdf)
 <img src="images/PowerBI Dashboard.png?raw=true"/>
 
 ---
