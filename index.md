@@ -20,7 +20,9 @@
 <img src="images/EDA NEW.png?raw=true"/>
 
 ---
+[KickStarter Campaigns 2009-2020: An Examination of Campaign Categories, Time Trends, and Predictors of Success](/DATA501_Final_Project.html)
 
+---
 [Capstone Project (in progress)](/Capstone_Project.md)
 
 
