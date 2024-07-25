@@ -2,15 +2,15 @@ title: Brittany S. Fisher # your name (or website title) here
 logo: "/images/Brittany Fisher photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   M.S. Data Science expected August '24
-  <br><br>
+  <br>
   B.A. Exercise Science '16
-  <br><br>
+  <br>
   Email: britstorm@gmail.com
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/brittany-fisher-300129183/">View My LinkedIn Profile</a> 
-  <br><br>
+  <br>
   <a href="/pdf/Brittany_Fisher_Resume.pdf">View My Resume</a> 
-  <br><br>
+  <br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
